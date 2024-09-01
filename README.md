@@ -36,5 +36,4 @@ The Titanic dataset contains information about passengers on the Titanic, includ
 ## Notes
 
 * The code includes comments explaining each step.
-* The specific machine learning model and evaluation metrics used are not defined in the provided code.
 * Further analysis and model optimization can be performed.
